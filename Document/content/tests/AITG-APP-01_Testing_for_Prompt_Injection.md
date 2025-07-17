@@ -306,6 +306,7 @@ In 2023, researchers were able to bypass ChatGPT's filters using the "DAN" jailb
 - Utilize specialized content filters and moderation systems explicitly engineered to detect and mitigate direct prompt injection payloads.
 - Restrict LLM privileges by design, mandating human approval for sensitive or critical operations.
 - Defeating Prompt Injections by Design. [CaMeL](https://arxiv.org/pdf/2503.18813)
+- Design Patterns for Securing LLM Agents against Prompt Injections [IBM, Google, ETH, Microsoft et al](https://arxiv.org/pdf/2506.08837v1)
 
 ### Suggested Tools for this Specific Test
 - **Garak – Prompt Injection Probe**: Specifically designed module within Garak for detecting prompt injection vulnerabilities.
